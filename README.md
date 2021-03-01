@@ -46,6 +46,16 @@
 <h3>📺 Latest Youtube videos</h3>
 
 <!-- YOUTUBE:START -->
+- [useEffect X SWR for fetching data](https://www.youtube.com/watch?v=Wf4tADmieLY)
+- [How to Install and Use Fira Code Font — VSCode on Ubuntu](https://www.youtube.com/watch?v=_Y2Yy7YYIsA)
+- [Why Did I Create This Channel?](https://www.youtube.com/watch?v=X_U-ew1v1fk)
+- [An introduction to SWR - a React hooks for fetching data](https://www.youtube.com/watch?v=M-oyTu0XTBA)
+- [Showing my full HyperX setup](https://www.youtube.com/watch?v=naa2Y79Va0o)
+- [Setting value in the Autcomplete [5/5]](https://www.youtube.com/watch?v=6u1bjFlvhGo)
+- [Finishing the css of the Autocomplete [4/5]](https://www.youtube.com/watch?v=3m7-cgIe87k)
+- [Creating the CSS of the Autocomplete [3/5]](https://www.youtube.com/watch?v=7gyMlPhqZzM)
+- [Creating the filter of the Autocomplete [2/5]](https://www.youtube.com/watch?v=r_PyRsNzbPg)
+- [Creating an Autocomplete in React [1/5]](https://www.youtube.com/watch?v=5kJgaWIoHJU)
 <!-- YOUTUBE:END -->
 
 <hr>
