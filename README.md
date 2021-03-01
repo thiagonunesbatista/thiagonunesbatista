@@ -46,7 +46,6 @@
 <h3>📺 Latest Youtube videos</h3>
 
 <!-- YOUTUBE:START -->
-
 - [useEffect X SWR for fetching data](https://www.youtube.com/watch?v=Wf4tADmieLY)
 - [How to Install and Use Fira Code Font — VSCode on Ubuntu](https://www.youtube.com/watch?v=_Y2Yy7YYIsA)
 - [Why Did I Create This Channel?](https://www.youtube.com/watch?v=X_U-ew1v1fk)
