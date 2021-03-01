@@ -53,6 +53,8 @@
 <h3>📝 Latest Medium Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [Impressões de um estagiário em uma empresa de tecnologia](https://medium.com/nave-team/impress%C3%B5es-de-um-estagi%C3%A1rio-em-uma-empresa-de-tecnologia-c8ca250cf499?source=rss-9ff789592be4------2)
+- [How to Install and Use Fira Code Font — VSCode on Ubuntu](https://medium.com/@thiagonunesbatista/how-to-install-and-use-fira-code-font-vscode-on-ubuntu-29f052be067c?source=rss-9ff789592be4------2)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
