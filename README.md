@@ -3,15 +3,13 @@
 <br><img src="https://github.com/thiagonunesbatista/thiagonunesbatista/blob/main/assets/tenor-pc-banging.gif" width="450px"><br><br>
 </p>
 
-
 <h3  align="center">I'm a Frontend Developer and Computer Science student in Brazil !!!</h3>
 
-<p align="center">
+<p align="justify">
 <samp>
   I'm currently involved in the development of Front End projects at <a href="http://nave.rs" target="_blank">Nave.rs</a>, using layouts to build interfaces, integrating with Backend and participating in projects that use Agile methods. I want to continue improving my programming skills obtaining experience and in a future go  and live in an English speaking country, that's my bigger career objective.<br>
-  
-</p>
 
+</p>
 
 <p align='center'>
     <img src="https://gpvc.arturio.dev/thiagonunesbatista" alt="profile views">
@@ -25,12 +23,9 @@
 <a href="https://www.linkedin.com/in/thiagonunesbatista" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-
 <hr>
 <h3 align='center'>🔭  I’m currently working with ...</h4>
 
-
-<h4 align='center'> Frontend and Others</h5>
 <p align='center'>
     <img  src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
@@ -48,5 +43,9 @@
 
 <hr>
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<hr>
 
 [![Thiago Nunes Batista's github stats](https://github-readme-stats.vercel.app/api?username=thiagonunesbatista)](https://github.com/thiagonunesbatista)
