@@ -18,19 +18,19 @@
 <h3  align='center'>💻 Social</h3>
 
 <p align='center'>
-  <a href="https://thiagonunesbatista.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%231DA1F2.svg?&style=for-the-badge&logo=Portfolio&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://thiagonunesbatista.medium.com/" target="_blank"><img src="https://img.shields.io/badge/medium-%231DA1F2.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/thiagonunesbatista" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/channel/UC4CxuzVpVnJfFD1gVjIgyJg"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://thiagonunesbatista.medium.com/"><img src="https://img.shields.io/badge/medium-%231DA1F2.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/thiagonunesbatista"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <hr>
 <h3 align='center'>🔭  I’m currently working with ...</h4>
 
 <p align='center'>
-    <img  src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
+    <img  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
 </p>
 <hr>
 
@@ -38,7 +38,7 @@
 <br>
 <p align='center'>
   <img  src="https://img.shields.io/badge/Node%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img  src="https://img.shields.io/badge/Jest%20-%23c21325.svg?&style=for-the-badge&logo=jest&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img  src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;&nbsp;
 </p>
 
 <hr>
@@ -46,6 +46,7 @@
 <h3>📺 Latest Youtube videos</h3>
 
 <!-- YOUTUBE:START -->
+
 - [useEffect X SWR for fetching data](https://www.youtube.com/watch?v=Wf4tADmieLY)
 - [How to Install and Use Fira Code Font — VSCode on Ubuntu](https://www.youtube.com/watch?v=_Y2Yy7YYIsA)
 - [Why Did I Create This Channel?](https://www.youtube.com/watch?v=X_U-ew1v1fk)
@@ -63,10 +64,11 @@
 <h3>📝 Latest Medium Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Impressões de um estagiário em uma empresa de tecnologia](https://medium.com/nave-team/impress%C3%B5es-de-um-estagi%C3%A1rio-em-uma-empresa-de-tecnologia-c8ca250cf499?source=rss-9ff789592be4------2)
 - [How to Install and Use Fira Code Font — VSCode on Ubuntu](https://medium.com/@thiagonunesbatista/how-to-install-and-use-fira-code-font-vscode-on-ubuntu-29f052be067c?source=rss-9ff789592be4------2)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
 
-[![Thiago Nunes Batista's github stats](https://github-readme-stats.vercel.app/api?username=thiagonunesbatista)](https://github.com/thiagonunesbatista)
+[![Thiago Nunes Batista's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagonunesbatista&layout=compact)](https://github.com/thiagonunesbatista)
