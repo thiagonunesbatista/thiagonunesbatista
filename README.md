@@ -43,6 +43,15 @@
 
 <hr>
 
+<h3>📺 Latest Youtube videos</h3>
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+<hr>
+
+<h3>📝 Latest Medium Posts</h3>
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
