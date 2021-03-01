@@ -4,7 +4,7 @@ I'm a Frontend developer. I built a [Youtube Channel](https://www.youtube.com/ch
 
 I like to study Frontend Technologies, especially in the React ecosystem, but sometimes I study NodeJS to build some personal Fullstack projects
 
-## 💻 Skills
+## Skills
 
 REACT / JS / CSS / HTML
 
