@@ -7,7 +7,7 @@
 
 <p align="justify">
 <samp>
-  I'm currently involved in the development of Front End projects at <a href="http://nave.rs" target="_blank">Nave.rs</a>, using layouts to build interfaces, integrating with Backend and participating in projects that use Agile methods. I want to continue improving my programming skills obtaining experience and in a future go  and live in an English speaking country, that's my bigger career objective.<br>
+  I'm currently involved in the development of Front End projects, using layouts to build interfaces, integrating with Backend and participating in projects that use Agile methods. I want to continue improving my programming skills obtaining experience and in a future go  and live in an English speaking country, that's my bigger career objective.<br>
 
 </p>
 
