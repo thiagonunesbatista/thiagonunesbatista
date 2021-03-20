@@ -63,6 +63,7 @@
 <h3>📝 Latest Medium Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [Customizando o seu perfil no GitHub usando o README.md](https://thiagonunesbatista.medium.com/customizando-o-seu-perfil-no-github-usando-o-readme-md-12ef1a3663a5?source=rss-9ff789592be4------2)
 - [Impressões de um estagiário em uma empresa de tecnologia](https://medium.com/nave-team/impress%C3%B5es-de-um-estagi%C3%A1rio-em-uma-empresa-de-tecnologia-c8ca250cf499?source=rss-9ff789592be4------2)
 - [How to Install and Use Fira Code Font — VSCode on Ubuntu](https://thiagonunesbatista.medium.com/how-to-install-and-use-fira-code-font-vscode-on-ubuntu-29f052be067c?source=rss-9ff789592be4------2)
 <!-- BLOG-POST-LIST:END -->
