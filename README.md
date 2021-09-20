@@ -64,7 +64,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Customizando o seu perfil no GitHub usando o README.md](https://thiagonunesbatista.medium.com/customizando-o-seu-perfil-no-github-usando-o-readme-md-12ef1a3663a5?source=rss-9ff789592be4------2)
-- [How to Install and Use Fira Code Font — VSCode on Ubuntu](https://thiagonunesbatista.medium.com/how-to-install-and-use-fira-code-font-vscode-on-ubuntu-29f052be067c?source=rss-9ff789592be4------2)
+- [How to Install and Use Fira Code Font — VSCode on Ubuntu](https://medium.com/roadevmap/how-to-install-and-use-fira-code-font-vscode-on-ubuntu-29f052be067c?source=rss-9ff789592be4------2)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
