@@ -46,16 +46,16 @@
 <h3>📺 Latest Youtube videos</h3>
 
 <!-- YOUTUBE:START -->
-- [Testing the sound of the Hyperx Alloy Origins Core - Red Switches](https://www.youtube.com/watch?v=uNVGAPSH7ZY)
-- [Como fazer o debug de código C no VScode no Ubuntu](https://www.youtube.com/watch?v=xkWQHxIDchM)
-- [useEffect X SWR for fetching data](https://www.youtube.com/watch?v=Wf4tADmieLY)
-- [How to Install and Use Fira Code Font — VSCode on Ubuntu](https://www.youtube.com/watch?v=_Y2Yy7YYIsA)
-- [Why Did I Create This Channel?](https://www.youtube.com/watch?v=X_U-ew1v1fk)
-- [An introduction to SWR - a React hooks for fetching data](https://www.youtube.com/watch?v=M-oyTu0XTBA)
-- [Showing my full HyperX setup](https://www.youtube.com/watch?v=naa2Y79Va0o)
-- [Setting value in the Autcomplete [5/5]](https://www.youtube.com/watch?v=6u1bjFlvhGo)
-- [Finishing the css of the Autocomplete [4/5]](https://www.youtube.com/watch?v=3m7-cgIe87k)
-- [Creating the CSS of the Autocomplete [3/5]](https://www.youtube.com/watch?v=7gyMlPhqZzM)
+- [Show de Água na Fonte da Praça Coronel Pedro Osório de Pelotas - RS](https://www.youtube.com/watch?v=zDXd6vwatZ0)
+- [Embarcando no Catamarã CatSul para travessia de Guaíba para Porto Alegre no Rio Grande do Sul](https://www.youtube.com/watch?v=1jXwfCZzK9w)
+- [Igreja de São Sebatião em Ubaporanga - MG - Paróquia São Domingos de Gusmão - 2023](https://www.youtube.com/watch?v=-buWvO8ymnU)
+- [Mágica com cordas na praia de Imbé - RS - 2023 - Parte 2](https://www.youtube.com/watch?v=BDk-gP7c-5Q)
+- [Ilusionista com cordas na praia de Imbé - RS - 2023 - Parte 1](https://www.youtube.com/watch?v=7j-x-8CP2kk)
+- [11º Festival Internacional SESC de Música em Pelotas/RS - 2023](https://www.youtube.com/watch?v=zC3XqKgz1r0)
+- [Sobrevoando o mar de Santa Catarina no BOEING 737-800 GUC DA GOL - VISÃO DA ASA](https://www.youtube.com/watch?v=k7Y5XnSHBVA)
+- [ATERRISSAGEM DO BOEING 737-800 GUC DA GOL NO AEROPORTO SALGADO FILHO EM PORTO ALEGRE - VISÃO DA ASA](https://www.youtube.com/watch?v=VNr_4Ohulu4)
+- [POUSO EM GUARULHOS DO BOEING 737-800 GXF DA GOL - VISÃO DA ASA DO AVIÃO](https://www.youtube.com/watch?v=Q479_aPwVh0)
+- [DECOLAGEM DO BOEING 737-800 GUC DA GOL NO AEROPORTO DE GUARULHOS COM DESTINO À PORTO ALEGRE](https://www.youtube.com/watch?v=LB_UKDYLymM)
 <!-- YOUTUBE:END -->
 
 <hr>
