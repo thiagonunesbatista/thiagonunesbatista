@@ -46,16 +46,16 @@
 <h3>📺 Latest Youtube videos</h3>
 
 <!-- YOUTUBE:START -->
-- [Show de Água na Fonte da Praça Coronel Pedro Osório de Pelotas - RS](https://www.youtube.com/watch?v=zDXd6vwatZ0)
-- [Embarcando no Catamarã CatSul para travessia de Guaíba para Porto Alegre no Rio Grande do Sul](https://www.youtube.com/watch?v=1jXwfCZzK9w)
-- [Igreja de São Sebatião em Ubaporanga - MG - Paróquia São Domingos de Gusmão - 2023](https://www.youtube.com/watch?v=-buWvO8ymnU)
-- [Mágica com cordas na praia de Imbé - RS - 2023 - Parte 2](https://www.youtube.com/watch?v=BDk-gP7c-5Q)
-- [Ilusionista com cordas na praia de Imbé - RS - 2023 - Parte 1](https://www.youtube.com/watch?v=7j-x-8CP2kk)
-- [11º Festival Internacional SESC de Música em Pelotas/RS - 2023](https://www.youtube.com/watch?v=zC3XqKgz1r0)
-- [Sobrevoando o mar de Santa Catarina no BOEING 737-800 GUC DA GOL - VISÃO DA ASA](https://www.youtube.com/watch?v=k7Y5XnSHBVA)
-- [ATERRISSAGEM DO BOEING 737-800 GUC DA GOL NO AEROPORTO SALGADO FILHO EM PORTO ALEGRE - VISÃO DA ASA](https://www.youtube.com/watch?v=VNr_4Ohulu4)
-- [POUSO EM GUARULHOS DO BOEING 737-800 GXF DA GOL - VISÃO DA ASA DO AVIÃO](https://www.youtube.com/watch?v=Q479_aPwVh0)
-- [DECOLAGEM DO BOEING 737-800 GUC DA GOL NO AEROPORTO DE GUARULHOS COM DESTINO À PORTO ALEGRE](https://www.youtube.com/watch?v=LB_UKDYLymM)
+- [Expectativa X Realidade do ambiente de trabalho na empresa  #meme #programação #tecnologia #computer](https://www.youtube.com/watch?v=LgOcFFEJKng)
+- [Como fazer multiplas requests para api de forma simultânea no JavaScript com Fetch e Promise.all #2](https://www.youtube.com/watch?v=opnmHtANxPs)
+- [O erro de se atrasar para a entrevista de emprego](https://www.youtube.com/watch?v=vo1tp9U_BcA)
+- [Como carregar dados de API no JavaScript utilizando a Fetch API - Tutorial apenas com HTML e JS #1](https://www.youtube.com/watch?v=78lFNv4USoU)
+- [O erro de não pesquisar sobre a empresa antes da entrevista de emprego](https://www.youtube.com/watch?v=bx-bk3mpcYA)
+- [Não se comunique utilizando muitos palavrões e gírias na sua entrevista de emprego](https://www.youtube.com/watch?v=ZSCgMtSOPio)
+- [Como instalar o Tailwind CSS no Nuxt 3 - &lpar;Aula Bônus&rpar; - Curso Gratuito de TailwindCSS #12](https://www.youtube.com/watch?v=H2hHkOnt-XQ)
+- [Como adicionar recomendações de extensões do seu projeto no Vscode](https://www.youtube.com/watch?v=xpkTV3pupIw)
+- [Não vá para uma entrevista de emprego com o seu local de entrevista despreparado ou bagunçado](https://www.youtube.com/watch?v=YnvCkTpkJ0k)
+- [Como adicionar o Google Tag Manager no seu website desenvolvido com NuxtJS 3](https://www.youtube.com/watch?v=eFEHKZhwCcU)
 <!-- YOUTUBE:END -->
 
 <hr>
