@@ -63,10 +63,10 @@
 <h3>📝 Latest Medium Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating a custom error page in NextJS](https://medium.com/roadevmap/creating-a-custom-error-page-in-nextjs-7eefdc53b?source=rss-9ff789592be4------2)
-- [How to disable Picture in Picture and download on HTML5 video tag](https://medium.com/roadevmap/how-to-disable-picture-in-picture-and-download-on-html5-video-tag-5918ad54581?source=rss-9ff789592be4------2)
-- [Customizando o seu perfil no GitHub usando o README.md](https://thiagonunesbatista.medium.com/customizando-o-seu-perfil-no-github-usando-o-readme-md-12ef1a3663a5?source=rss-9ff789592be4------2)
-- [How to Install and Use Fira Code Font — VSCode on Ubuntu](https://medium.com/roadevmap/how-to-install-and-use-fira-code-font-vscode-on-ubuntu-29f052be067c?source=rss-9ff789592be4------2)
+- [Como adicionar o Google Tag Manager no seu website com Nuxt 3](https://dev.to/codigoaoponto/como-adicionar-o-google-tag-manager-no-seu-website-com-nuxt-3-pp7)
+- [Os principais erros de programadores em entrevistas de emprego](https://dev.to/codigoaoponto/os-principais-erros-de-programadores-em-entrevistas-de-emprego-1ae9)
+- [Como recuperar arquivos perdidos no Git utilizando o VSCode](https://dev.to/codigoaoponto/como-recuperar-arquivos-perdidos-no-git-utilizando-o-vscode-2ec3)
+- [A maneira correta de utilizar a nomenclatura BEM](https://dev.to/codigoaoponto/a-maneira-correta-de-utilizar-a-nomenclatura-bem-40l6)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
