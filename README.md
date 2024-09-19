@@ -3,7 +3,7 @@
 <br><img src="https://github.com/thiagonunesbatista/thiagonunesbatista/blob/main/assets/tenor-pc-banging.gif" width="450px"><br><br>
 </p>
 
-<h3  align="center">I'm a Frontend Developer and Computer Science student in Brazil !!!</h3>
+<h3  align="center">I'm a Frontend Developer and Youtube Creator on Código ao Ponto channel  !!!</h3>
 
 <p align="justify">
 <samp>
