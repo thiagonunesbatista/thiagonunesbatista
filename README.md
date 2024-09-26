@@ -46,7 +46,7 @@
 <h3>📺 Latest Youtube videos</h3>
 
 <!-- YOUTUBE:START -->
-- [O impacto de código de terceiros no SEO e Core Web Vitals de páginas Web](https://www.youtube.com/watch?v=i1-K5YKgQMc)
+- [Otimização de SEO na prática - reduzindo o impacto de código de terceiros no SEO e Core Web Vitals](https://www.youtube.com/watch?v=i1-K5YKgQMc)
 - [Expectativa X Realidade do ambiente de trabalho na empresa  #meme #programação #tecnologia #computer](https://www.youtube.com/watch?v=LgOcFFEJKng)
 - [Como fazer multiplas requests para api de forma simultânea no JavaScript com Fetch e Promise.all #2](https://www.youtube.com/watch?v=opnmHtANxPs)
 - [O erro de se atrasar para a entrevista de emprego](https://www.youtube.com/watch?v=vo1tp9U_BcA)
