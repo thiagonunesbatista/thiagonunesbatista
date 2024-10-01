@@ -46,6 +46,7 @@
 <h3>📺 Latest Youtube videos</h3>
 
 <!-- YOUTUBE:START -->
+- [o que é Vue.JS?](https://www.youtube.com/watch?v=9Po33-byKws)
 - [Otimização de SEO na prática - reduzindo o impacto de código de terceiros no SEO e Core Web Vitals](https://www.youtube.com/watch?v=i1-K5YKgQMc)
 - [Expectativa X Realidade do ambiente de trabalho na empresa  #meme #programação #tecnologia #computer](https://www.youtube.com/watch?v=LgOcFFEJKng)
 - [Como fazer multiplas requests para api de forma simultânea no JavaScript com Fetch e Promise.all #2](https://www.youtube.com/watch?v=opnmHtANxPs)
@@ -55,7 +56,6 @@
 - [Não se comunique utilizando muitos palavrões e gírias na sua entrevista de emprego](https://www.youtube.com/watch?v=ZSCgMtSOPio)
 - [Como instalar o Tailwind CSS no Nuxt 3 - &lpar;Aula Bônus&rpar; - Curso Gratuito de TailwindCSS #12](https://www.youtube.com/watch?v=H2hHkOnt-XQ)
 - [Como adicionar recomendações de extensões do seu projeto no Vscode](https://www.youtube.com/watch?v=xpkTV3pupIw)
-- [Não vá para uma entrevista de emprego com o seu local de entrevista despreparado ou bagunçado](https://www.youtube.com/watch?v=YnvCkTpkJ0k)
 <!-- YOUTUBE:END -->
 
 <hr>
