@@ -46,6 +46,7 @@
 <h3>📺 Latest Youtube videos</h3>
 
 <!-- YOUTUBE:START -->
+- [SEO para Mídias Sociais: Como Fazer os Links do Seu Site Bombarem nas Mídias Sociais!](https://www.youtube.com/watch?v=dLgvTA-34Zo)
 - [o que é Vue.JS?](https://www.youtube.com/watch?v=9Po33-byKws)
 - [Como Melhorar Seu SEO e Acelerar Seu Site Removendo Códigos Desnecessários!](https://www.youtube.com/watch?v=i1-K5YKgQMc)
 - [Expectativa X Realidade do ambiente de trabalho na empresa  #meme #programação #tecnologia #computer](https://www.youtube.com/watch?v=LgOcFFEJKng)
@@ -55,7 +56,6 @@
 - [O erro de não pesquisar sobre a empresa antes da entrevista de emprego](https://www.youtube.com/watch?v=bx-bk3mpcYA)
 - [Não se comunique utilizando muitos palavrões e gírias na sua entrevista de emprego](https://www.youtube.com/watch?v=ZSCgMtSOPio)
 - [Como instalar o Tailwind CSS no Nuxt 3 - &lpar;Aula Bônus&rpar; - Curso Gratuito de TailwindCSS #12](https://www.youtube.com/watch?v=H2hHkOnt-XQ)
-- [Como adicionar recomendações de extensões do seu projeto no Vscode](https://www.youtube.com/watch?v=xpkTV3pupIw)
 <!-- YOUTUBE:END -->
 
 <hr>
