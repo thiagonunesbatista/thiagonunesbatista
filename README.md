@@ -46,6 +46,7 @@
 <h3>📺 Latest Youtube videos</h3>
 
 <!-- YOUTUBE:START -->
+- [O que é Nuxt.JS ?](https://www.youtube.com/watch?v=6qG4uWc6RYs)
 - [SEO para Mídias Sociais: Como Fazer os Links do Seu Site Bombarem nas Mídias Sociais!](https://www.youtube.com/watch?v=dLgvTA-34Zo)
 - [o que é Vue.JS?](https://www.youtube.com/watch?v=9Po33-byKws)
 - [Como Melhorar Seu SEO e Acelerar Seu Site Removendo Códigos Desnecessários!](https://www.youtube.com/watch?v=i1-K5YKgQMc)
@@ -55,7 +56,6 @@
 - [Como carregar dados de API no JavaScript utilizando a Fetch API - Tutorial apenas com HTML e JS #1](https://www.youtube.com/watch?v=78lFNv4USoU)
 - [O erro de não pesquisar sobre a empresa antes da entrevista de emprego](https://www.youtube.com/watch?v=bx-bk3mpcYA)
 - [Não se comunique utilizando muitos palavrões e gírias na sua entrevista de emprego](https://www.youtube.com/watch?v=ZSCgMtSOPio)
-- [Como instalar o Tailwind CSS no Nuxt 3 - &lpar;Aula Bônus&rpar; - Curso Gratuito de TailwindCSS #12](https://www.youtube.com/watch?v=H2hHkOnt-XQ)
 <!-- YOUTUBE:END -->
 
 <hr>
