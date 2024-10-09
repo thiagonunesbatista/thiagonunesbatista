@@ -46,6 +46,7 @@
 <h3>📺 Latest Youtube videos</h3>
 
 <!-- YOUTUBE:START -->
+- [Agradecimento aos 1000 inscritos 🙋🏻‍♂️, o que foi o Código ao Ponto até agora e os próximos passos..](https://www.youtube.com/watch?v=mL250SL1pfE)
 - [O que é Nuxt.JS ?](https://www.youtube.com/watch?v=6qG4uWc6RYs)
 - [SEO para Mídias Sociais: Como Fazer os Links do Seu Site Bombarem nas Mídias Sociais!](https://www.youtube.com/watch?v=dLgvTA-34Zo)
 - [o que é Vue.JS?](https://www.youtube.com/watch?v=9Po33-byKws)
@@ -55,7 +56,6 @@
 - [O erro de se atrasar para a entrevista de emprego](https://www.youtube.com/watch?v=vo1tp9U_BcA)
 - [Como carregar dados de API no JavaScript utilizando a Fetch API - Tutorial apenas com HTML e JS #1](https://www.youtube.com/watch?v=78lFNv4USoU)
 - [O erro de não pesquisar sobre a empresa antes da entrevista de emprego](https://www.youtube.com/watch?v=bx-bk3mpcYA)
-- [Não se comunique utilizando muitos palavrões e gírias na sua entrevista de emprego](https://www.youtube.com/watch?v=ZSCgMtSOPio)
 <!-- YOUTUBE:END -->
 
 <hr>
