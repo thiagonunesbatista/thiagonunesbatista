@@ -46,6 +46,7 @@
 <h3>📺 Latest Youtube videos</h3>
 
 <!-- YOUTUBE:START -->
+- [⚡ Renderização universal, Híbrida ou CSR? Entenda os Modos de Renderização no Nuxt.js - Aula #2](https://www.youtube.com/watch?v=YPkFpX9hMJg)
 - [🚀 Curso COMPLETO e GRATUITO de Nuxt.js – Aula #1](https://www.youtube.com/watch?v=agKNTNvgF10)
 - [Agradecimento aos 1000 inscritos 🙋🏻‍♂️, o que foi o Código ao Ponto até agora e os próximos passos..](https://www.youtube.com/watch?v=mL250SL1pfE)
 - [O que é Nuxt.JS ?](https://www.youtube.com/watch?v=6qG4uWc6RYs)
@@ -55,7 +56,6 @@
 - [Expectativa X Realidade do ambiente de trabalho na empresa  #meme #programação #tecnologia #computer](https://www.youtube.com/watch?v=LgOcFFEJKng)
 - [Como fazer multiplas requests para api de forma simultânea no JavaScript com Fetch e Promise.all #2](https://www.youtube.com/watch?v=opnmHtANxPs)
 - [O erro de se atrasar para a entrevista de emprego](https://www.youtube.com/watch?v=vo1tp9U_BcA)
-- [Como carregar dados de API no JavaScript utilizando a Fetch API - Tutorial apenas com HTML e JS #1](https://www.youtube.com/watch?v=78lFNv4USoU)
 <!-- YOUTUBE:END -->
 
 <hr>
