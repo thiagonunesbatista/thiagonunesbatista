@@ -46,6 +46,7 @@
 <h3>📺 Latest Youtube videos</h3>
 
 <!-- YOUTUBE:START -->
+- [🏗️ Estrutura das Views no Nuxt.js: Components, Layouts, Pages e Mais! &lpar;Curso Grátis - Aula #3](https://www.youtube.com/watch?v=AKoY0HgLxpI)
 - [o que são as Open Graph tags ou OG Tags?](https://www.youtube.com/watch?v=I25k50FmBvo)
 - [⚡ Renderização universal, Híbrida ou CSR? Entenda os Modos de Renderização no Nuxt.js - Aula #2](https://www.youtube.com/watch?v=YPkFpX9hMJg)
 - [🚀 Curso COMPLETO e GRATUITO de Nuxt.js – Aula #1](https://www.youtube.com/watch?v=agKNTNvgF10)
@@ -55,7 +56,6 @@
 - [o que é Vue.JS?](https://www.youtube.com/watch?v=9Po33-byKws)
 - [Como Melhorar Seu SEO e Acelerar Seu Site Removendo Códigos Desnecessários!](https://www.youtube.com/watch?v=i1-K5YKgQMc)
 - [Expectativa X Realidade do ambiente de trabalho na empresa  #meme #programação #tecnologia #computer](https://www.youtube.com/watch?v=LgOcFFEJKng)
-- [Como fazer multiplas requests para api de forma simultânea no JavaScript com Fetch e Promise.all #2](https://www.youtube.com/watch?v=opnmHtANxPs)
 <!-- YOUTUBE:END -->
 
 <hr>
