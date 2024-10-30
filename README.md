@@ -46,6 +46,7 @@
 <h3>📺 Latest Youtube videos</h3>
 
 <!-- YOUTUBE:START -->
+- [o que é Web Vitals e Core Web Vitals?](https://www.youtube.com/watch?v=fjC9tEc7HGI)
 - [🚀 Instalação e Configuração do Projeto Nuxt.JS com TailwindCSS do Curso Gratuito de NUXT - Aula #5](https://www.youtube.com/watch?v=yHNkkdYosmQ)
 - [Dica de extensão no VSCODE para criar commits utilizando o padrão Conventional Commits](https://www.youtube.com/watch?v=TkfgCmzwrYI)
 - [⚙️ Assets no Nuxt.js: Como adicionar Imagens, Fontes e CSS no seu Projeto com Nuxt.JS - Aula #4](https://www.youtube.com/watch?v=Lz53l5fnLQI)
@@ -55,7 +56,6 @@
 - [🚀 Curso COMPLETO e GRATUITO de Nuxt.js – Aula #1](https://www.youtube.com/watch?v=agKNTNvgF10)
 - [Agradecimento aos 1000 inscritos 🙋🏻‍♂️, o que foi o Código ao Ponto até agora e os próximos passos..](https://www.youtube.com/watch?v=mL250SL1pfE)
 - [O que é Nuxt.JS ?](https://www.youtube.com/watch?v=6qG4uWc6RYs)
-- [SEO para Mídias Sociais: Como Fazer os Links do Seu Site Bombarem nas Mídias Sociais!](https://www.youtube.com/watch?v=dLgvTA-34Zo)
 <!-- YOUTUBE:END -->
 
 <hr>
