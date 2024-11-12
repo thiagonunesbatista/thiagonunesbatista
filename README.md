@@ -46,6 +46,8 @@
 <h3>📺 Latest Youtube videos</h3>
 
 <!-- YOUTUBE:START -->
+- [antigo Web APIs, o Front-end além de botoes coloridos - Parte 1](https://www.youtube.com/watch?v=eyW9RoiKhCA)
+- [Web APIs, o Front-end além de botoes coloridos - Parte 1](https://www.youtube.com/watch?v=RHh0tNK06E0)
 - [o que é Web Vitals e Core Web Vitals?](https://www.youtube.com/watch?v=fjC9tEc7HGI)
 - [🚀 Instalação e Configuração do Projeto Nuxt.JS com TailwindCSS do Curso Gratuito de NUXT - Aula #5](https://www.youtube.com/watch?v=yHNkkdYosmQ)
 - [Dica de extensão no VSCODE para criar commits utilizando o padrão Conventional Commits](https://www.youtube.com/watch?v=TkfgCmzwrYI)
@@ -54,8 +56,6 @@
 - [o que são as Open Graph tags ou OG Tags?](https://www.youtube.com/watch?v=I25k50FmBvo)
 - [⚡ Renderização universal, Híbrida ou CSR? Entenda os Modos de Renderização no Nuxt.js - Aula #2](https://www.youtube.com/watch?v=YPkFpX9hMJg)
 - [🚀 Curso COMPLETO e GRATUITO de Nuxt.js – Aula #1](https://www.youtube.com/watch?v=agKNTNvgF10)
-- [Agradecimento aos 1000 inscritos 🙋🏻‍♂️, o que foi o Código ao Ponto até agora e os próximos passos..](https://www.youtube.com/watch?v=mL250SL1pfE)
-- [O que é Nuxt.JS ?](https://www.youtube.com/watch?v=6qG4uWc6RYs)
 <!-- YOUTUBE:END -->
 
 <hr>
