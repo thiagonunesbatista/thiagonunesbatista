@@ -63,6 +63,7 @@
 <h3>📝 Latest Medium Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [Componentes no Figma — Um guia para te ajudar a começar!](https://dev.to/codigoaoponto/componentes-no-figma-um-guia-para-te-ajudar-a-comecar-5ep0)
 - [SEO para Mídias Sociais: Como Fazer os Links do Seu Site Bombarem nas Mídias Sociais!](https://dev.to/codigoaoponto/seo-para-midias-sociais-como-fazer-os-links-do-seu-site-bombarem-nas-midias-sociais-20c5)
 - [Como adicionar o Google Tag Manager no seu website com Nuxt 3](https://dev.to/codigoaoponto/como-adicionar-o-google-tag-manager-no-seu-website-com-nuxt-3-pp7)
 - [Os principais erros de programadores em entrevistas de emprego](https://dev.to/codigoaoponto/os-principais-erros-de-programadores-em-entrevistas-de-emprego-1ae9)
