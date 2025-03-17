@@ -48,7 +48,7 @@
 <!-- YOUTUBE:START -->
 - [🚦 Como criar páginas e Rotas Dinâmicas no Nuxt | Aula #7](https://www.youtube.com/watch?v=QXZtYRlrpRM)
 - [↔️ Middlewares no Nuxt.js: Global, Nomeado e Anônimo | O Que São e Como Usar | Aula #6](https://www.youtube.com/watch?v=Pf_1F4b5dro)
-- [Web APIs, o Front-end além de botoes coloridos - Parte 1](https://www.youtube.com/watch?v=RHh0tNK06E0)
+- [Web APIs, o Front-end além de botões coloridos - Parte 1](https://www.youtube.com/watch?v=RHh0tNK06E0)
 - [o que é Web Vitals e Core Web Vitals?](https://www.youtube.com/watch?v=fjC9tEc7HGI)
 - [🚀 Instalação e Configuração do Projeto Nuxt.JS com TailwindCSS do Curso Gratuito de NUXT - Aula #5](https://www.youtube.com/watch?v=yHNkkdYosmQ)
 - [Dica de extensão no VSCODE para criar commits utilizando o padrão Conventional Commits](https://www.youtube.com/watch?v=TkfgCmzwrYI)
