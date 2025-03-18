@@ -46,6 +46,7 @@
 <h3>📺 Latest Youtube videos</h3>
 
 <!-- YOUTUBE:START -->
+- [🔍O que são Parâmetros de Consulta &lpar;Query Params&rpar; e Para Que Servem? | Aula #8](https://www.youtube.com/watch?v=k69FtY_6VdQ)
 - [🚦 Como criar páginas e Rotas Dinâmicas no Nuxt | Aula #7](https://www.youtube.com/watch?v=QXZtYRlrpRM)
 - [↔️ Middlewares no Nuxt.js: Global, Nomeado e Anônimo | O Que São e Como Usar | Aula #6](https://www.youtube.com/watch?v=Pf_1F4b5dro)
 - [Web APIs, o Front-end além de botões coloridos - Parte 1](https://www.youtube.com/watch?v=RHh0tNK06E0)
@@ -55,7 +56,6 @@
 - [⚙️ Assets no Nuxt.js: Como adicionar Imagens, Fontes e CSS no seu Projeto com Nuxt.JS - Aula #4](https://www.youtube.com/watch?v=Lz53l5fnLQI)
 - [🏗️ Estrutura das Views no Nuxt.js: Components, Layouts, Pages e Mais! &lpar;Curso Grátis - Aula #3](https://www.youtube.com/watch?v=AKoY0HgLxpI)
 - [o que são as Open Graph tags ou OG Tags?](https://www.youtube.com/watch?v=I25k50FmBvo)
-- [⚡ Renderização universal, Híbrida ou CSR? Entenda os Modos de Renderização no Nuxt.js - Aula #2](https://www.youtube.com/watch?v=YPkFpX9hMJg)
 <!-- YOUTUBE:END -->
 
 <hr>
