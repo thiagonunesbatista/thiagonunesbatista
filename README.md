@@ -46,6 +46,7 @@
 <h3>📺 Latest Youtube videos</h3>
 
 <!-- YOUTUBE:START -->
+- [👨🏻‍💻 Aprenda a Usar Query Params no Nuxt na Prática | Aula #9](https://www.youtube.com/watch?v=iHPi8j1ES4g)
 - [🔍O que são Parâmetros de Consulta &lpar;Query Params&rpar; e Para Que Servem? | Aula #8](https://www.youtube.com/watch?v=k69FtY_6VdQ)
 - [🚦 Como criar páginas e Rotas Dinâmicas no Nuxt | Aula #7](https://www.youtube.com/watch?v=QXZtYRlrpRM)
 - [↔️ Middlewares no Nuxt.js: Global, Nomeado e Anônimo | O Que São e Como Usar | Aula #6](https://www.youtube.com/watch?v=Pf_1F4b5dro)
@@ -55,7 +56,6 @@
 - [Dica de extensão no VSCODE para criar commits utilizando o padrão Conventional Commits](https://www.youtube.com/watch?v=TkfgCmzwrYI)
 - [⚙️ Assets no Nuxt.js: Como adicionar Imagens, Fontes e CSS no seu Projeto com Nuxt.JS - Aula #4](https://www.youtube.com/watch?v=Lz53l5fnLQI)
 - [🏗️ Estrutura das Views no Nuxt.js: Components, Layouts, Pages e Mais! &lpar;Curso Grátis - Aula #3](https://www.youtube.com/watch?v=AKoY0HgLxpI)
-- [o que são as Open Graph tags ou OG Tags?](https://www.youtube.com/watch?v=I25k50FmBvo)
 <!-- YOUTUBE:END -->
 
 <hr>
