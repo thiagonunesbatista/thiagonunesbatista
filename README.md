@@ -46,6 +46,7 @@
 <h3>📺 Latest Youtube videos</h3>
 
 <!-- YOUTUBE:START -->
+- [Usando Web APIs na prática — o poder nativo do JavaScript 😱 - Parte 2](https://www.youtube.com/watch?v=TNYoY6oYqpc)
 - [Dicionários no I18N: Como Estruturar e Traduzir Seu Site no Vue.js #2](https://www.youtube.com/watch?v=AnFGeGoMMZU)
 - [O que é I18N? A ferramenta para traduzir seu site para qualquer idioma #1](https://www.youtube.com/watch?v=3-r7KVELcoE)
 - [👨🏻‍💻 Aprenda a Usar Query Params no Nuxt na Prática | Aula #9](https://www.youtube.com/watch?v=iHPi8j1ES4g)
@@ -55,7 +56,6 @@
 - [Web APIs, o Front-end além de botões coloridos - Parte 1](https://www.youtube.com/watch?v=RHh0tNK06E0)
 - [o que é Web Vitals e Core Web Vitals?](https://www.youtube.com/watch?v=fjC9tEc7HGI)
 - [🚀 Instalação e Configuração do Projeto Nuxt.JS com TailwindCSS do Curso Gratuito de NUXT - Aula #5](https://www.youtube.com/watch?v=yHNkkdYosmQ)
-- [Dica de extensão no VSCODE para criar commits utilizando o padrão Conventional Commits](https://www.youtube.com/watch?v=TkfgCmzwrYI)
 <!-- YOUTUBE:END -->
 
 <hr>
