@@ -46,6 +46,7 @@
 <h3>📺 Latest Youtube videos</h3>
 
 <!-- YOUTUBE:START -->
+- [Como traduzir seu site ou app para outros idiomas?  Conheça a ferramenta I18N](https://www.youtube.com/watch?v=A-CAiRdNl78)
 - [Interpolação no I18N: Como Usar Variáveis e Componentes do Vue.js em traduções do I18N #3](https://www.youtube.com/watch?v=GBjd_I-nvPc)
 - [Usando Web APIs na prática — o poder nativo do JavaScript 😱 - Parte 2](https://www.youtube.com/watch?v=TNYoY6oYqpc)
 - [Dicionários no I18N: Como Estruturar e Traduzir Seu Site no Vue.js #2](https://www.youtube.com/watch?v=AnFGeGoMMZU)
@@ -55,7 +56,6 @@
 - [🚦 Como criar páginas e Rotas Dinâmicas no Nuxt | Aula #7](https://www.youtube.com/watch?v=QXZtYRlrpRM)
 - [↔️ Middlewares no Nuxt.js: Global, Nomeado e Anônimo | O Que São e Como Usar | Aula #6](https://www.youtube.com/watch?v=Pf_1F4b5dro)
 - [Web APIs, o Front-end além de botões coloridos - Parte 1](https://www.youtube.com/watch?v=RHh0tNK06E0)
-- [o que é Web Vitals e Core Web Vitals?](https://www.youtube.com/watch?v=fjC9tEc7HGI)
 <!-- YOUTUBE:END -->
 
 <hr>
