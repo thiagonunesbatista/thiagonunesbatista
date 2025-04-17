@@ -46,6 +46,7 @@
 <h3>📺 Latest Youtube videos</h3>
 
 <!-- YOUTUBE:START -->
+- [🛠️ Aula prática Nuxt: Criando a listagem de personagens no Nuxt com a API do Rick and Morty #10](https://www.youtube.com/watch?v=77gKMwRV9EM)
 - [Como traduzir seu site ou app para outros idiomas?  Conheça a ferramenta I18N](https://www.youtube.com/watch?v=A-CAiRdNl78)
 - [Interpolação no I18N: Como Usar Variáveis e Componentes do Vue.js em traduções do I18N #3](https://www.youtube.com/watch?v=GBjd_I-nvPc)
 - [Usando Web APIs na prática — o poder nativo do JavaScript 😱 - Parte 2](https://www.youtube.com/watch?v=TNYoY6oYqpc)
@@ -55,7 +56,6 @@
 - [🔍O que são Parâmetros de Consulta &lpar;Query Params&rpar; e Para Que Servem? | Aula #8](https://www.youtube.com/watch?v=k69FtY_6VdQ)
 - [🚦 Como criar páginas e Rotas Dinâmicas no Nuxt | Aula #7](https://www.youtube.com/watch?v=QXZtYRlrpRM)
 - [↔️ Middlewares no Nuxt.js: Global, Nomeado e Anônimo | O Que São e Como Usar | Aula #6](https://www.youtube.com/watch?v=Pf_1F4b5dro)
-- [Web APIs, o Front-end além de botões coloridos - Parte 1](https://www.youtube.com/watch?v=RHh0tNK06E0)
 <!-- YOUTUBE:END -->
 
 <hr>
