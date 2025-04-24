@@ -46,6 +46,7 @@
 <h3>📺 Latest Youtube videos</h3>
 
 <!-- YOUTUBE:START -->
+- [🛠️ Aula Prática Nuxt: Listagem de Episódios com a API Rick and Morty #11](https://www.youtube.com/watch?v=MiX8FWLOJDI)
 - [Pluralização e Formatação de Datas no I18N: Como Aplicar no Vue.js #4](https://www.youtube.com/watch?v=2ciNlxiJ54M)
 - [🛠️ Aula prática Nuxt: Criando a listagem de personagens no Nuxt com a API do Rick and Morty #10](https://www.youtube.com/watch?v=77gKMwRV9EM)
 - [Como traduzir seu site ou app para outros idiomas?  Conheça a ferramenta I18N](https://www.youtube.com/watch?v=A-CAiRdNl78)
@@ -55,7 +56,6 @@
 - [O que é I18N? A ferramenta para traduzir seu site para qualquer idioma #1](https://www.youtube.com/watch?v=3-r7KVELcoE)
 - [👨🏻‍💻 Aprenda a Usar Query Params no Nuxt na Prática | Aula #9](https://www.youtube.com/watch?v=iHPi8j1ES4g)
 - [🔍O que são Parâmetros de Consulta &lpar;Query Params&rpar; e Para Que Servem? | Aula #8](https://www.youtube.com/watch?v=k69FtY_6VdQ)
-- [🚦 Como criar páginas e Rotas Dinâmicas no Nuxt | Aula #7](https://www.youtube.com/watch?v=QXZtYRlrpRM)
 <!-- YOUTUBE:END -->
 
 <hr>
