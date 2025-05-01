@@ -46,6 +46,7 @@
 <h3>📺 Latest Youtube videos</h3>
 
 <!-- YOUTUBE:START -->
+- [🛠️ Aula Prática Nuxt: Finalizando a listagem de Episódios com a API Rick and Morty #12](https://www.youtube.com/watch?v=jq4q2aU8wVs)
 - [Fundamentos Essenciais de SEO para Entender o Web Vitals #1](https://www.youtube.com/watch?v=ZINVrAWVtxA)
 - [🛠️ Aula Prática Nuxt: Listagem de Episódios com a API Rick and Morty #11](https://www.youtube.com/watch?v=MiX8FWLOJDI)
 - [Pluralização e Formatação de Datas no I18N: Como Aplicar no Vue.js #4](https://www.youtube.com/watch?v=2ciNlxiJ54M)
@@ -55,7 +56,6 @@
 - [Usando Web APIs na prática — o poder nativo do JavaScript 😱 - Parte 2](https://www.youtube.com/watch?v=TNYoY6oYqpc)
 - [Dicionários no I18N: Como Estruturar e Traduzir Seu Site no Vue.js #2](https://www.youtube.com/watch?v=AnFGeGoMMZU)
 - [O que é I18N? A ferramenta para traduzir seu site para qualquer idioma #1](https://www.youtube.com/watch?v=3-r7KVELcoE)
-- [👨🏻‍💻 Aprenda a Usar Query Params no Nuxt na Prática | Aula #9](https://www.youtube.com/watch?v=iHPi8j1ES4g)
 <!-- YOUTUBE:END -->
 
 <hr>
