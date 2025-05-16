@@ -46,6 +46,7 @@
 <h3>📺 Latest Youtube videos</h3>
 
 <!-- YOUTUBE:START -->
+- [Venha participar do evento From Dev To Dev Conf 2024 - Garanta seu Ingresso 🎫](https://www.youtube.com/watch?v=NjyixbDxidA)
 - [Web Vitals: O Que É, Como Medir e Otimizar a Performance do Seu Site? #2](https://www.youtube.com/watch?v=Ko-0j8q7C00)
 - [🛠️ Aula Prática Nuxt: Finalizando a listagem de Episódios com a API Rick and Morty #12](https://www.youtube.com/watch?v=jq4q2aU8wVs)
 - [Fundamentos Essenciais de SEO para Entender o Web Vitals #1](https://www.youtube.com/watch?v=ZINVrAWVtxA)
@@ -55,7 +56,6 @@
 - [Como traduzir seu site ou app para outros idiomas?  Conheça a ferramenta I18N](https://www.youtube.com/watch?v=A-CAiRdNl78)
 - [Interpolação no I18N: Como Usar Variáveis e Componentes do Vue.js em traduções do I18N #3](https://www.youtube.com/watch?v=GBjd_I-nvPc)
 - [Usando Web APIs na prática — o poder nativo do JavaScript 😱 - Parte 2](https://www.youtube.com/watch?v=TNYoY6oYqpc)
-- [Dicionários no I18N: Como Estruturar e Traduzir Seu Site no Vue.js #2](https://www.youtube.com/watch?v=AnFGeGoMMZU)
 <!-- YOUTUBE:END -->
 
 <hr>
