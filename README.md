@@ -47,7 +47,7 @@
 
 <!-- YOUTUBE:START -->
 - [A Jornada de Dev Front-end para Full Stack &lpar;Laravel&rpar; Começa Agora](https://www.youtube.com/watch?v=AeTAWANt50c)
-- [Venha participar do evento From Dev To Dev Conf 2024 - Garanta seu Ingresso 🎫](https://www.youtube.com/watch?v=NjyixbDxidA)
+- [Venha participar do evento From Dev To Dev Conf 2024 - Garanta seu Ingresso 🎫](https://www.youtube.com/shorts/NjyixbDxidA)
 - [Web Vitals: O Que É, Como Medir e Otimizar a Performance do Seu Site? #2](https://www.youtube.com/watch?v=Ko-0j8q7C00)
 - [🛠️ Aula Prática Nuxt: Finalizando a listagem de Episódios com a API Rick and Morty #12](https://www.youtube.com/watch?v=jq4q2aU8wVs)
 - [Fundamentos Essenciais de SEO para Entender o Web Vitals #1](https://www.youtube.com/watch?v=ZINVrAWVtxA)
