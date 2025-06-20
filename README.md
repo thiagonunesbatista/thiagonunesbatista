@@ -54,7 +54,7 @@
 - [🛠️ Aula Prática Nuxt: Listagem de Episódios com a API Rick and Morty #11](https://www.youtube.com/watch?v=MiX8FWLOJDI)
 - [Pluralização e Formatação de Datas no I18N: Como Aplicar no Vue.js #4](https://www.youtube.com/watch?v=2ciNlxiJ54M)
 - [🛠️ Aula prática Nuxt: Criando a listagem de personagens no Nuxt com a API do Rick and Morty #10](https://www.youtube.com/watch?v=77gKMwRV9EM)
-- [Como traduzir seu site ou app para outros idiomas?  Conheça a ferramenta I18N](https://www.youtube.com/watch?v=A-CAiRdNl78)
+- [Como traduzir seu site ou app para outros idiomas?  Conheça a ferramenta I18N](https://www.youtube.com/shorts/A-CAiRdNl78)
 - [Interpolação no I18N: Como Usar Variáveis e Componentes do Vue.js em traduções do I18N #3](https://www.youtube.com/watch?v=GBjd_I-nvPc)
 <!-- YOUTUBE:END -->
 
