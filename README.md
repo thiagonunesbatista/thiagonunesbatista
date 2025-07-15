@@ -46,6 +46,7 @@
 <h3>📺 Latest Youtube videos</h3>
 
 <!-- YOUTUBE:START -->
+- [Unboxing Mouse Logitech Lift Esquerdo  e Teclado Logitech MX Keys - Montando um setup sem fio](https://www.youtube.com/shorts/wBE_6kDGrZM)
 - [🚨 Grande anúncio: lançamos o Hub de ferramentas gratuitas para Programadores](https://www.youtube.com/watch?v=nbdo1tAF8n8)
 - [📦 Unboxing do Novo MacBook Air M4 de 512gb de SSD na Cor Azul Céu – Primeiras Impressões!](https://www.youtube.com/shorts/lMDQV1_Zbos)
 - [A Jornada de Dev Front-end para Full Stack &lpar;Laravel&rpar; Começa Agora](https://www.youtube.com/watch?v=AeTAWANt50c)
@@ -55,7 +56,6 @@
 - [Fundamentos Essenciais de SEO para Entender o Web Vitals #1](https://www.youtube.com/watch?v=ZINVrAWVtxA)
 - [🛠️ Aula Prática Nuxt: Listagem de Episódios com a API Rick and Morty #11](https://www.youtube.com/watch?v=MiX8FWLOJDI)
 - [Pluralização e Formatação de Datas no I18N: Como Aplicar no Vue.js #4](https://www.youtube.com/watch?v=2ciNlxiJ54M)
-- [🛠️ Aula prática Nuxt: Criando a listagem de personagens no Nuxt com a API do Rick and Morty #10](https://www.youtube.com/watch?v=77gKMwRV9EM)
 <!-- YOUTUBE:END -->
 
 <hr>
