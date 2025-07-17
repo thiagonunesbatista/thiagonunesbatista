@@ -46,6 +46,7 @@
 <h3>📺 Latest Youtube videos</h3>
 
 <!-- YOUTUBE:START -->
+- [Vercel comprou a Nuxt Labs! E agora, o que muda para o Nuxt?](https://www.youtube.com/watch?v=PeTEqrt9eHs)
 - [Unboxing Mouse Logitech Lift Esquerdo  e Teclado Logitech MX Keys - Montando um setup sem fio](https://www.youtube.com/shorts/wBE_6kDGrZM)
 - [🚨 Grande anúncio: lançamos o Hub de ferramentas gratuitas para Programadores](https://www.youtube.com/watch?v=nbdo1tAF8n8)
 - [📦 Unboxing do Novo MacBook Air M4 de 512gb de SSD na Cor Azul Céu – Primeiras Impressões!](https://www.youtube.com/shorts/lMDQV1_Zbos)
@@ -55,7 +56,6 @@
 - [🛠️ Aula Prática Nuxt: Finalizando a listagem de Episódios com a API Rick and Morty #12](https://www.youtube.com/watch?v=jq4q2aU8wVs)
 - [Fundamentos Essenciais de SEO para Entender o Web Vitals #1](https://www.youtube.com/watch?v=ZINVrAWVtxA)
 - [🛠️ Aula Prática Nuxt: Listagem de Episódios com a API Rick and Morty #11](https://www.youtube.com/watch?v=MiX8FWLOJDI)
-- [Pluralização e Formatação de Datas no I18N: Como Aplicar no Vue.js #4](https://www.youtube.com/watch?v=2ciNlxiJ54M)
 <!-- YOUTUBE:END -->
 
 <hr>
