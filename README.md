@@ -46,6 +46,7 @@
 <h3>📺 Latest Youtube videos</h3>
 
 <!-- YOUTUBE:START -->
+- [Unboxing Hub Usb Ugreen Uno 6 em 1 com Power Delivery de 100W para macbook](https://www.youtube.com/shorts/1xXd4hquI6Q)
 - [Vercel comprou a Nuxt Labs! E agora, o que muda para o Nuxt?](https://www.youtube.com/watch?v=PeTEqrt9eHs)
 - [Unboxing Mouse Logitech Lift Esquerdo  e Teclado Logitech MX Keys - Montando um setup sem fio](https://www.youtube.com/shorts/wBE_6kDGrZM)
 - [🚨 Grande anúncio: lançamos o Hub de ferramentas gratuitas para Programadores](https://www.youtube.com/watch?v=nbdo1tAF8n8)
@@ -55,7 +56,6 @@
 - [Web Vitals: O Que É, Como Medir e Otimizar a Performance do Seu Site? #2](https://www.youtube.com/watch?v=Ko-0j8q7C00)
 - [🛠️ Aula Prática Nuxt: Finalizando a listagem de Episódios com a API Rick and Morty #12](https://www.youtube.com/watch?v=jq4q2aU8wVs)
 - [Fundamentos Essenciais de SEO para Entender o Web Vitals #1](https://www.youtube.com/watch?v=ZINVrAWVtxA)
-- [🛠️ Aula Prática Nuxt: Listagem de Episódios com a API Rick and Morty #11](https://www.youtube.com/watch?v=MiX8FWLOJDI)
 <!-- YOUTUBE:END -->
 
 <hr>
