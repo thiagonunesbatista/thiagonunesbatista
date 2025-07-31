@@ -46,6 +46,7 @@
 <h3>📺 Latest Youtube videos</h3>
 
 <!-- YOUTUBE:START -->
+- [🛰️ Deploy na Vercel e Netlify via GitHub do projeto do curso gratuito de NuxtJS  #13](https://www.youtube.com/watch?v=PD7kT9GIZpE)
 - [Unboxing do Óculos com Filtro de Luz Azul da Fozoco Que Protege Quem Trabalha em Frente às Telas](https://www.youtube.com/shorts/YYYFBIcJVvc)
 - [Por que todo dev deveria fazer processo seletivo — mesmo empregado](https://www.youtube.com/watch?v=lmMZ3-pEYVo)
 - [Unboxing Hub Usb Ugreen Uno 6 em 1 com Power Delivery de 100W para macbook](https://www.youtube.com/shorts/1xXd4hquI6Q)
@@ -55,7 +56,6 @@
 - [📦 Unboxing do Novo MacBook Air M4 de 512gb de SSD na Cor Azul Céu – Primeiras Impressões!](https://www.youtube.com/shorts/lMDQV1_Zbos)
 - [A Jornada de Dev Front-end para Full Stack &lpar;Laravel&rpar; Começa Agora](https://www.youtube.com/watch?v=AeTAWANt50c)
 - [Venha participar do evento From Dev To Dev Conf 2024 - Garanta seu Ingresso 🎫](https://www.youtube.com/shorts/NjyixbDxidA)
-- [Web Vitals: O Que É, Como Medir e Otimizar a Performance do Seu Site? #2](https://www.youtube.com/watch?v=Ko-0j8q7C00)
 <!-- YOUTUBE:END -->
 
 <hr>
