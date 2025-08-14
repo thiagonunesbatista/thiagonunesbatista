@@ -46,6 +46,7 @@
 <h3>📺 Latest Youtube videos</h3>
 
 <!-- YOUTUBE:START -->
+- [Object.freeze&lpar;&rpar; no JavaScript: como proteger seus objetos contra mudanças](https://www.youtube.com/watch?v=E0KUdc8aSZ4)
 - [🚀 Atualizando as bibliotecas Tailwind CSS e Nuxt no projeto do curso Gratuito de NuxtJS  #14](https://www.youtube.com/watch?v=8q0QJi8EimE)
 - [🛰️ Deploy na Vercel e Netlify via GitHub do projeto do curso gratuito de NuxtJS  #13](https://www.youtube.com/watch?v=PD7kT9GIZpE)
 - [Unboxing do Óculos com Filtro de Luz Azul da Fozoco Que Protege Quem Trabalha em Frente às Telas](https://www.youtube.com/shorts/YYYFBIcJVvc)
@@ -55,7 +56,6 @@
 - [Unboxing Mouse Logitech Lift Esquerdo  e Teclado Logitech MX Keys - Montando um setup sem fio](https://www.youtube.com/shorts/wBE_6kDGrZM)
 - [🚨 Grande anúncio: lançamos o Hub de ferramentas gratuitas para Programadores](https://www.youtube.com/watch?v=nbdo1tAF8n8)
 - [📦 Unboxing do Novo MacBook Air M4 de 512gb de SSD na Cor Azul Céu – Primeiras Impressões!](https://www.youtube.com/shorts/lMDQV1_Zbos)
-- [A Jornada de Dev Front-end para Full Stack &lpar;Laravel&rpar; Começa Agora](https://www.youtube.com/watch?v=AeTAWANt50c)
 <!-- YOUTUBE:END -->
 
 <hr>
