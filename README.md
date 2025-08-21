@@ -46,7 +46,7 @@
 <h3>📺 Latest Youtube videos</h3>
 
 <!-- YOUTUBE:START -->
-- [Como lidar com inveja de outros programadores na sua carreira](https://www.youtube.com/watch?v=NJv-BcWelms)
+- [O Que Ninguém Te Conta sobre o Crescimento na Carreira Dev](https://www.youtube.com/watch?v=NJv-BcWelms)
 - [Object.freeze&lpar;&rpar; no JavaScript: como proteger seus objetos contra mudanças](https://www.youtube.com/watch?v=E0KUdc8aSZ4)
 - [🚀 Atualizando as bibliotecas Tailwind CSS e Nuxt no projeto do curso Gratuito de NuxtJS  #14](https://www.youtube.com/watch?v=8q0QJi8EimE)
 - [🛰️ Deploy na Vercel e Netlify via GitHub do projeto do curso gratuito de NuxtJS  #13](https://www.youtube.com/watch?v=PD7kT9GIZpE)
