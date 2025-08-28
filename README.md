@@ -46,6 +46,7 @@
 <h3>📺 Latest Youtube videos</h3>
 
 <!-- YOUTUBE:START -->
+- [🛠️ Aula Prática Nuxt: Meta Tags, Layouts e Rotas no Projeto com Rick and Morty #15](https://www.youtube.com/watch?v=o-Ash8dLrxw)
 - [O Que Ninguém Te Conta sobre o Crescimento na Carreira Dev](https://www.youtube.com/watch?v=NJv-BcWelms)
 - [Object.freeze&lpar;&rpar; no JavaScript: como proteger seus objetos contra mudanças](https://www.youtube.com/watch?v=E0KUdc8aSZ4)
 - [🚀 Atualizando as bibliotecas Tailwind CSS e Nuxt no projeto do curso Gratuito de NuxtJS  #14](https://www.youtube.com/watch?v=8q0QJi8EimE)
@@ -55,7 +56,6 @@
 - [Unboxing Hub Usb Ugreen Uno 6 em 1 com Power Delivery de 100W para macbook](https://www.youtube.com/shorts/1xXd4hquI6Q)
 - [Vercel comprou a Nuxt Labs! E agora, o que muda para o Nuxt?](https://www.youtube.com/watch?v=PeTEqrt9eHs)
 - [Unboxing Mouse Logitech Lift Esquerdo  e Teclado Logitech MX Keys - Montando um setup sem fio](https://www.youtube.com/shorts/wBE_6kDGrZM)
-- [🚨 Grande anúncio: lançamos o Hub de ferramentas gratuitas para Programadores](https://www.youtube.com/watch?v=nbdo1tAF8n8)
 <!-- YOUTUBE:END -->
 
 <hr>
