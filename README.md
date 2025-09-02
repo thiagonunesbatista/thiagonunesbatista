@@ -63,6 +63,7 @@
 <h3>📝 Latest Medium Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [Como lidar com inveja de outros programadores na carreira](https://dev.to/codigoaoponto/como-lidar-com-inveja-de-outros-programadores-na-carreira-28mp)
 - [Vercel comprou a Nuxt Labs! E agora, o que muda para o Nuxt?](https://dev.to/codigoaoponto/vercel-comprou-a-nuxt-labs-e-agora-o-que-muda-para-o-nuxt-26mk)
 - [Middlewares: O que são e como utilizar no Nuxt.JS](https://dev.to/codigoaoponto/middlewares-o-que-sao-e-como-utilizar-no-nuxtjs-4aa5)
 - [Componentes no Figma — Um guia para te ajudar a começar!](https://dev.to/codigoaoponto/componentes-no-figma-um-guia-para-te-ajudar-a-comecar-5ep0)
