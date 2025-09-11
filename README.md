@@ -46,6 +46,7 @@
 <h3>📺 Latest Youtube videos</h3>
 
 <!-- YOUTUBE:START -->
+- [Sou iniciante. Qual framework eu escolho pra começar?](https://www.youtube.com/watch?v=hKiCgDfCVog)
 - [🛠️ Aula Prática Nuxt: Criando Footer, Container e Hero do Projeto #16](https://www.youtube.com/watch?v=QkaGREVuhRY)
 - [🛠️ Aula Prática Nuxt: Meta Tags, Layouts e Rotas no Projeto com Rick and Morty #15](https://www.youtube.com/watch?v=o-Ash8dLrxw)
 - [O Que Ninguém Te Conta sobre o Crescimento na Carreira Dev](https://www.youtube.com/watch?v=NJv-BcWelms)
@@ -55,7 +56,6 @@
 - [Unboxing do Óculos com Filtro de Luz Azul da Fozoco Que Protege Quem Trabalha em Frente às Telas](https://www.youtube.com/shorts/YYYFBIcJVvc)
 - [Por que todo dev deveria fazer processo seletivo — mesmo empregado](https://www.youtube.com/watch?v=lmMZ3-pEYVo)
 - [Unboxing Hub Usb Ugreen Uno 6 em 1 com Power Delivery de 100W para macbook](https://www.youtube.com/shorts/1xXd4hquI6Q)
-- [Vercel comprou a Nuxt Labs! E agora, o que muda para o Nuxt?](https://www.youtube.com/watch?v=PeTEqrt9eHs)
 <!-- YOUTUBE:END -->
 
 <hr>
