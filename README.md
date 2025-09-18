@@ -46,6 +46,7 @@
 <h3>📺 Latest Youtube videos</h3>
 
 <!-- YOUTUBE:START -->
+- [Modal com HTML, CSS e JavaScript – Tutorial Completo](https://www.youtube.com/watch?v=SN4uds2_LjE)
 - [Sou iniciante. Qual framework eu escolho pra começar?](https://www.youtube.com/watch?v=hKiCgDfCVog)
 - [🛠️ Aula Prática Nuxt: Criando Footer, Container e Hero do Projeto #16](https://www.youtube.com/watch?v=QkaGREVuhRY)
 - [🛠️ Aula Prática Nuxt: Meta Tags, Layouts e Rotas no Projeto com Rick and Morty #15](https://www.youtube.com/watch?v=o-Ash8dLrxw)
@@ -55,7 +56,6 @@
 - [🛰️ Deploy na Vercel e Netlify via GitHub do projeto do curso gratuito de NuxtJS  #13](https://www.youtube.com/watch?v=PD7kT9GIZpE)
 - [Unboxing do Óculos com Filtro de Luz Azul da Fozoco Que Protege Quem Trabalha em Frente às Telas](https://www.youtube.com/shorts/YYYFBIcJVvc)
 - [Por que todo dev deveria fazer processo seletivo — mesmo empregado](https://www.youtube.com/watch?v=lmMZ3-pEYVo)
-- [Unboxing Hub Usb Ugreen Uno 6 em 1 com Power Delivery de 100W para macbook](https://www.youtube.com/shorts/1xXd4hquI6Q)
 <!-- YOUTUBE:END -->
 
 <hr>
