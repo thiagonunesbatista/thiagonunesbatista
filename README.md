@@ -46,6 +46,7 @@
 <h3>📺 Latest Youtube videos</h3>
 
 <!-- YOUTUBE:START -->
+- [Como Criar um Botão Voltar ao Topo com HTML, CSS e JavaScript](https://www.youtube.com/watch?v=7DtsRVkvBlY)
 - [Modal com HTML, CSS e JavaScript – Tutorial Completo](https://www.youtube.com/watch?v=SN4uds2_LjE)
 - [Sou iniciante. Qual framework eu escolho pra começar?](https://www.youtube.com/watch?v=hKiCgDfCVog)
 - [🛠️ Aula Prática Nuxt: Criando Footer, Container e Hero do Projeto #16](https://www.youtube.com/watch?v=QkaGREVuhRY)
@@ -55,7 +56,6 @@
 - [🚀 Atualizando as bibliotecas Tailwind CSS e Nuxt no projeto do curso Gratuito de NuxtJS  #14](https://www.youtube.com/watch?v=8q0QJi8EimE)
 - [🛰️ Deploy na Vercel e Netlify via GitHub do projeto do curso gratuito de NuxtJS  #13](https://www.youtube.com/watch?v=PD7kT9GIZpE)
 - [Unboxing do Óculos com Filtro de Luz Azul da Fozoco Que Protege Quem Trabalha em Frente às Telas](https://www.youtube.com/shorts/YYYFBIcJVvc)
-- [Por que todo dev deveria fazer processo seletivo — mesmo empregado](https://www.youtube.com/watch?v=lmMZ3-pEYVo)
 <!-- YOUTUBE:END -->
 
 <hr>
