@@ -63,6 +63,7 @@
 <h3>📝 Latest Medium Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [I Built a Free Web Tools Hub for Developers](https://dev.to/codigoaoponto/i-built-a-free-web-tools-hub-for-developers-37p5)
 - [Como lidar com inveja de outros programadores na carreira](https://dev.to/codigoaoponto/como-lidar-com-inveja-de-outros-programadores-na-carreira-28mp)
 - [Vercel comprou a Nuxt Labs! E agora, o que muda para o Nuxt?](https://dev.to/codigoaoponto/vercel-comprou-a-nuxt-labs-e-agora-o-que-muda-para-o-nuxt-26mk)
 - [Middlewares: O que são e como utilizar no Nuxt.JS](https://dev.to/codigoaoponto/middlewares-o-que-sao-e-como-utilizar-no-nuxtjs-4aa5)
