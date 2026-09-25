@@ -1,49 +1,47 @@
-<h2 align="center">Hello, I'm Thiago, It's a pleasure to meet you 👋</h2>
+<h2 align="center">Hi, I'm Thiago 👋</h2>
+
 <p align="center">
-<br><img src="https://github.com/thiagonunesbatista/thiagonunesbatista/blob/main/assets/tenor-pc-banging.gif" width="450px"><br><br>
+  <img src="assets/tenor-pc-banging.gif" width="450px" alt="Someone typing furiously on a computer">
 </p>
 
-<h3  align="center">I'm a Frontend Developer and Youtube Creator on Código ao Ponto channel  !!!</h3>
-
-<p align="justify">
-<samp>
-  I'm currently involved in the development of Front End projects, using layouts to build interfaces, integrating with Backend and participating in projects that use Agile methods. I want to continue improving my programming skills obtaining experience and in a future go  and live in an English speaking country, that's my bigger career objective.<br>
-
+<p align="center">
+  <a href="https://www.youtube.com/@CodigoAoPonto"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://dev.to/codigoaoponto"><img src="https://img.shields.io/badge/DEV-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV" /></a>
+  <a href="https://www.instagram.com/codigo_ponto"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.linkedin.com/in/thiagonunesbatista"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://codigoaoponto.com/en"><img src="https://img.shields.io/badge/codigoaoponto.com-1F2937?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
 </p>
 
-<p align='center'>
-    <img src="https://gpvc.arturio.dev/thiagonunesbatista" alt="profile views">
+I'm a front-end developer and the creator of [Código ao Ponto](https://codigoaoponto.com/en), a Brazilian project where I write articles, record YouTube videos and build free tools for developers. It started after I spent a while helping college classmates and mentoring junior devs, and decided to share what I'd learned in public.
+
+Most of my coding time now goes into [codigoaoponto.com](https://codigoaoponto.com/en). It runs on Nuxt 4 and TypeScript, with a small NestJS and Socket.IO API behind the real-time tools. The site is available in Portuguese, English, Spanish, French and German.
+
+### Free tools on the site
+
+There are almost 30 of them. Some generate Brazilian test data (CPF, CNPJ, RG, CNH, PIS, vehicle plates and RENAVAM). Others are everyday dev utilities: a JWT decoder and generator, hash, HMAC and bcrypt generators, a Base64 decoder, a Unix timestamp converter, a JSON formatter and a UUID generator. For team rituals there's a Planning Poker and a Sprint Retrospective board.
+
+You can browse them at [codigoaoponto.com/en/tools](https://codigoaoponto.com/en/tools).
+
+### Talks
+
+- **Vue com gosto de Nuxt, o Toddynho Fullstack**, From Dev To Dev Conf 2025. Why Nuxt works well for SEO and performance. [Slides](https://codigoaoponto.com/slideshow/Vue%20com%20gosto%20de%20Nuxt,%20o%20Toddynho%20Fullstack.pdf)
+- **Web APIs, o Front-end além de botões coloridos**, GDG DevFest RS 2024. Native browser APIs that front-end devs tend to overlook. [Slides](https://codigoaoponto.com/slideshow/Web%20APIs,%20O%20Front-end%20al%C3%A9m%20de%20bot%C3%B5es%20coloridos.pdf) · [Code](https://github.com/thiagonunesbatista/project-presentation-web-apis-o-front-end-alem-de-botoes-coloridos)
+- **Web Vitals, como a experiência do usuário vai afetar o SEO do seu site**, SAJIC 2024 at UniSenac Pelotas. The Core Web Vitals and how to measure and improve them for SEO. [Slides](https://codigoaoponto.com/slideshow/Web%20Vitals,%20como%20a%20experi%C3%AAncia%20do%20usu%C3%A1rio%20vai%20afetar%20o%20SEO%20do%20seu%20site.pdf)
+
+### What I work with
+
+<p>
+  <img src="https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue" />
+  <img src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt&logoColor=00DC82" alt="Nuxt" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-<h3  align='center'>💻 Social</h3>
-
-<p align='center'>
-  <a href="https://www.youtube.com/channel/UC4CxuzVpVnJfFD1gVjIgyJg"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://thiagonunesbatista.medium.com/"><img src="https://img.shields.io/badge/medium-%231DA1F2.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/thiagonunesbatista"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-
-<hr>
-<h3 align='center'>🔭  I’m currently working with ...</h4>
-
-<p align='center'>
-    <img  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
-</p>
-<hr>
-
-<h3 align='center'> 🌱  I'm currently learning...</h4>
-<br>
-<p align='center'>
-  <img  src="https://img.shields.io/badge/Node%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img  src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;&nbsp;
-</p>
-
-<hr>
-
-<h3>📺 Latest Youtube videos</h3>
+### Latest YouTube videos
 
 <!-- YOUTUBE:START -->
 - [1 ano sem vídeo: o que aconteceu e o que vem por aí](https://www.youtube.com/watch?v=4tpytd-LM48)
@@ -58,9 +56,7 @@
 - [Object.freeze&lpar;&rpar; no JavaScript: como proteger seus objetos contra mudanças](https://www.youtube.com/watch?v=E0KUdc8aSZ4)
 <!-- YOUTUBE:END -->
 
-<hr>
-
-<h3>📝 Latest Medium Posts</h3>
+### Latest articles on DEV
 
 <!-- BLOG-POST-LIST:START -->
 - [I Built a Free Web Tools Hub for Developers](https://dev.to/codigoaoponto/i-built-a-free-web-tools-hub-for-developers-37p5)
@@ -74,7 +70,3 @@
 - [Como recuperar arquivos perdidos no Git utilizando o VSCode](https://dev.to/codigoaoponto/como-recuperar-arquivos-perdidos-no-git-utilizando-o-vscode-2ec3)
 - [A maneira correta de utilizar a nomenclatura BEM](https://dev.to/codigoaoponto/a-maneira-correta-de-utilizar-a-nomenclatura-bem-40l6)
 <!-- BLOG-POST-LIST:END -->
-
-<hr>
-
-[![Thiago Nunes Batista's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagonunesbatista&layout=compact)](https://github.com/thiagonunesbatista)
