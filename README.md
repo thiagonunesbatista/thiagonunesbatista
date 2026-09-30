@@ -44,6 +44,7 @@ You can browse them at [codigoaoponto.com/en/tools](https://codigoaoponto.com/en
 ### Latest YouTube videos
 
 <!-- YOUTUBE:START -->
+- [TUTORIAL de GOOGLE SEARCH CONSOLE | Todas as abas com dados reais do meu site](https://www.youtube.com/watch?v=1PL5O1SpMmc)
 - [1 ano sem vídeo: o que aconteceu e o que vem por aí](https://www.youtube.com/watch?v=4tpytd-LM48)
 - [DEV PJ: Pare de Ser REFÉM Financeiro de EMPRESA!](https://www.youtube.com/watch?v=3DoN3OE281Q)
 - [Como Criar uma Barra de Progresso com HTML, CSS e JavaScript &lpar;Passo a Passo&rpar;](https://www.youtube.com/watch?v=YsqHqhn6zsE)
@@ -53,7 +54,6 @@ You can browse them at [codigoaoponto.com/en/tools](https://codigoaoponto.com/en
 - [🛠️ Aula Prática Nuxt: Criando Footer, Container e Hero do Projeto #16](https://www.youtube.com/watch?v=QkaGREVuhRY)
 - [🛠️ Aula Prática Nuxt: Meta Tags, Layouts e Rotas no Projeto com Rick and Morty #15](https://www.youtube.com/watch?v=o-Ash8dLrxw)
 - [O Que Ninguém Te Conta sobre o Crescimento na Carreira Dev](https://www.youtube.com/watch?v=NJv-BcWelms)
-- [Object.freeze&lpar;&rpar; no JavaScript: como proteger seus objetos contra mudanças](https://www.youtube.com/watch?v=E0KUdc8aSZ4)
 <!-- YOUTUBE:END -->
 
 ### Latest articles on DEV
