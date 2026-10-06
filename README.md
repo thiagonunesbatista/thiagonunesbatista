@@ -59,6 +59,7 @@ You can browse them at [codigoaoponto.com/en/tools](https://codigoaoponto.com/en
 ### Latest articles on DEV
 
 <!-- BLOG-POST-LIST:START -->
+- [Vue Vapor Mode: what it is and what changes in Vue 3.6](https://dev.to/codigoaoponto/vue-vapor-mode-what-it-is-and-what-changes-in-vue-36-2cmc)
 - [I Built a Free Web Tools Hub for Developers](https://dev.to/codigoaoponto/i-built-a-free-web-tools-hub-for-developers-37p5)
 - [Como lidar com inveja de outros programadores na carreira](https://dev.to/codigoaoponto/como-lidar-com-inveja-de-outros-programadores-na-carreira-28mp)
 - [Vercel comprou a Nuxt Labs! E agora, o que muda para o Nuxt?](https://dev.to/codigoaoponto/vercel-comprou-a-nuxt-labs-e-agora-o-que-muda-para-o-nuxt-26mk)
@@ -68,5 +69,4 @@ You can browse them at [codigoaoponto.com/en/tools](https://codigoaoponto.com/en
 - [Como adicionar o Google Tag Manager no seu website com Nuxt 3](https://dev.to/codigoaoponto/como-adicionar-o-google-tag-manager-no-seu-website-com-nuxt-3-pp7)
 - [Os principais erros de programadores em entrevistas de emprego](https://dev.to/codigoaoponto/os-principais-erros-de-programadores-em-entrevistas-de-emprego-1ae9)
 - [Como recuperar arquivos perdidos no Git utilizando o VSCode](https://dev.to/codigoaoponto/como-recuperar-arquivos-perdidos-no-git-utilizando-o-vscode-2ec3)
-- [A maneira correta de utilizar a nomenclatura BEM](https://dev.to/codigoaoponto/a-maneira-correta-de-utilizar-a-nomenclatura-bem-40l6)
 <!-- BLOG-POST-LIST:END -->
