@@ -44,6 +44,7 @@ You can browse them at [codigoaoponto.com/en/tools](https://codigoaoponto.com/en
 ### Latest YouTube videos
 
 <!-- YOUTUBE:START -->
+- [Gurizada de TI quando chegam as 18h de sexta-feira 🕺🏻🕺🏻🕺🏻 #ia #trending #trendingshorts](https://www.youtube.com/shorts/3LS2_bgjjpw)
 - [TUTORIAL de GOOGLE SEARCH CONSOLE | Todas as abas com dados reais do meu site](https://www.youtube.com/watch?v=1PL5O1SpMmc)
 - [1 ano sem vídeo: o que aconteceu e o que vem por aí](https://www.youtube.com/watch?v=4tpytd-LM48)
 - [DEV PJ: Pare de Ser REFÉM Financeiro de EMPRESA!](https://www.youtube.com/watch?v=3DoN3OE281Q)
@@ -53,7 +54,6 @@ You can browse them at [codigoaoponto.com/en/tools](https://codigoaoponto.com/en
 - [Sou iniciante. Qual framework eu escolho pra começar?](https://www.youtube.com/watch?v=hKiCgDfCVog)
 - [🛠️ Aula Prática Nuxt: Criando Footer, Container e Hero do Projeto #16](https://www.youtube.com/watch?v=QkaGREVuhRY)
 - [🛠️ Aula Prática Nuxt: Meta Tags, Layouts e Rotas no Projeto com Rick and Morty #15](https://www.youtube.com/watch?v=o-Ash8dLrxw)
-- [O Que Ninguém Te Conta sobre o Crescimento na Carreira Dev](https://www.youtube.com/watch?v=NJv-BcWelms)
 <!-- YOUTUBE:END -->
 
 ### Latest articles on DEV
