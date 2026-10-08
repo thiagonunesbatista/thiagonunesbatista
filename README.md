@@ -44,6 +44,7 @@ You can browse them at [codigoaoponto.com/en/tools](https://codigoaoponto.com/en
 ### Latest YouTube videos
 
 <!-- YOUTUBE:START -->
+- [Dev vai ter que pagar assinatura de IA para sempre?](https://www.youtube.com/watch?v=DDor6VW43bw)
 - [Gurizada de TI quando chegam as 18h de sexta-feira 🕺🏻🕺🏻🕺🏻 #ia #trending #trendingshorts](https://www.youtube.com/shorts/3LS2_bgjjpw)
 - [TUTORIAL de GOOGLE SEARCH CONSOLE | Todas as abas com dados reais do meu site](https://www.youtube.com/watch?v=1PL5O1SpMmc)
 - [1 ano sem vídeo: o que aconteceu e o que vem por aí](https://www.youtube.com/watch?v=4tpytd-LM48)
@@ -53,7 +54,6 @@ You can browse them at [codigoaoponto.com/en/tools](https://codigoaoponto.com/en
 - [Modal com HTML, CSS e JavaScript – Tutorial Completo](https://www.youtube.com/watch?v=SN4uds2_LjE)
 - [Sou iniciante. Qual framework eu escolho pra começar?](https://www.youtube.com/watch?v=hKiCgDfCVog)
 - [🛠️ Aula Prática Nuxt: Criando Footer, Container e Hero do Projeto #16](https://www.youtube.com/watch?v=QkaGREVuhRY)
-- [🛠️ Aula Prática Nuxt: Meta Tags, Layouts e Rotas no Projeto com Rick and Morty #15](https://www.youtube.com/watch?v=o-Ash8dLrxw)
 <!-- YOUTUBE:END -->
 
 ### Latest articles on DEV
