@@ -44,6 +44,7 @@ You can browse them at [codigoaoponto.com/en/tools](https://codigoaoponto.com/en
 ### Latest YouTube videos
 
 <!-- YOUTUBE:START -->
+- [Por que todo dev sonha em largar tudo e ir para a fazenda?](https://www.youtube.com/watch?v=mC3a6cgtNBw)
 - [Hype de IA: como separar o que importa do que é modinha](https://www.youtube.com/watch?v=X4AGMylFsnM)
 - [Dev vai ter que pagar assinatura de IA para sempre?](https://www.youtube.com/watch?v=DDor6VW43bw)
 - [Gurizada de TI quando chegam as 18h de sexta-feira 🕺🏻🕺🏻🕺🏻 #ia #trending #trendingshorts](https://www.youtube.com/shorts/3LS2_bgjjpw)
@@ -53,7 +54,6 @@ You can browse them at [codigoaoponto.com/en/tools](https://codigoaoponto.com/en
 - [Como Criar uma Barra de Progresso com HTML, CSS e JavaScript &lpar;Passo a Passo&rpar;](https://www.youtube.com/watch?v=YsqHqhn6zsE)
 - [Como Criar um Botão Voltar ao Topo com HTML, CSS e JavaScript](https://www.youtube.com/watch?v=7DtsRVkvBlY)
 - [Modal com HTML, CSS e JavaScript – Tutorial Completo](https://www.youtube.com/watch?v=SN4uds2_LjE)
-- [Sou iniciante. Qual framework eu escolho pra começar?](https://www.youtube.com/watch?v=hKiCgDfCVog)
 <!-- YOUTUBE:END -->
 
 ### Latest articles on DEV
