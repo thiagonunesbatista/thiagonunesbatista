@@ -44,6 +44,7 @@ You can browse them at [codigoaoponto.com/en/tools](https://codigoaoponto.com/en
 ### Latest YouTube videos
 
 <!-- YOUTUBE:START -->
+- [Por que JavaScript se chama JavaScript?](https://www.youtube.com/watch?v=U1balPnfm_8)
 - [O que é um Composable no Vue e no Nuxt?  Aula #17](https://www.youtube.com/watch?v=wrESf5IOAfU)
 - [Por que todo dev sonha em largar tudo e ir para a fazenda?](https://www.youtube.com/watch?v=mC3a6cgtNBw)
 - [Hype de IA: como separar o que importa do que é modinha](https://www.youtube.com/watch?v=X4AGMylFsnM)
@@ -53,7 +54,6 @@ You can browse them at [codigoaoponto.com/en/tools](https://codigoaoponto.com/en
 - [1 ano sem vídeo: o que aconteceu e o que vem por aí](https://www.youtube.com/watch?v=4tpytd-LM48)
 - [DEV PJ: Pare de Ser REFÉM Financeiro de EMPRESA!](https://www.youtube.com/watch?v=3DoN3OE281Q)
 - [Como Criar uma Barra de Progresso com HTML, CSS e JavaScript &lpar;Passo a Passo&rpar;](https://www.youtube.com/watch?v=YsqHqhn6zsE)
-- [Como Criar um Botão Voltar ao Topo com HTML, CSS e JavaScript](https://www.youtube.com/watch?v=7DtsRVkvBlY)
 <!-- YOUTUBE:END -->
 
 ### Latest articles on DEV
