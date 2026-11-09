@@ -44,8 +44,8 @@ You can browse them at [codigoaoponto.com/en/tools](https://codigoaoponto.com/en
 ### Latest YouTube videos
 
 <!-- YOUTUBE:START -->
-- [Por que Linux se chama Linux?](https://www.youtube.com/watch?v=waR8zA97RDQ)
-- [Por que JavaScript se chama JavaScript?](https://www.youtube.com/watch?v=U1balPnfm_8)
+- [Linux não era pra se chamar Linux](https://www.youtube.com/watch?v=waR8zA97RDQ)
+- [JavaScript não tem nada a ver com Java &lpar;o nome foi marketing&rpar;](https://www.youtube.com/watch?v=U1balPnfm_8)
 - [O que é um Composable no Vue e no Nuxt?  Aula #17](https://www.youtube.com/watch?v=wrESf5IOAfU)
 - [Por que todo dev sonha em largar tudo e ir para a fazenda?](https://www.youtube.com/watch?v=mC3a6cgtNBw)
 - [Hype de IA: como separar o que importa do que é modinha](https://www.youtube.com/watch?v=X4AGMylFsnM)
