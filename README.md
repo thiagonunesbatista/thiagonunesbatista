@@ -44,6 +44,7 @@ You can browse them at [codigoaoponto.com/en/tools](https://codigoaoponto.com/en
 ### Latest YouTube videos
 
 <!-- YOUTUBE:START -->
+- [O nome do Vue saiu do Google Tradutor](https://www.youtube.com/watch?v=TeiQb3ikiEg)
 - [Linux não era pra se chamar Linux](https://www.youtube.com/watch?v=waR8zA97RDQ)
 - [JavaScript não tem nada a ver com Java &lpar;o nome foi marketing&rpar;](https://www.youtube.com/watch?v=U1balPnfm_8)
 - [O que é um Composable no Vue e no Nuxt?  Aula #17](https://www.youtube.com/watch?v=wrESf5IOAfU)
@@ -53,7 +54,6 @@ You can browse them at [codigoaoponto.com/en/tools](https://codigoaoponto.com/en
 - [Gurizada de TI quando chegam as 18h de sexta-feira 🕺🏻🕺🏻🕺🏻 #ia #trending #trendingshorts](https://www.youtube.com/shorts/3LS2_bgjjpw)
 - [TUTORIAL de GOOGLE SEARCH CONSOLE | Todas as abas com dados reais do meu site](https://www.youtube.com/watch?v=1PL5O1SpMmc)
 - [1 ano sem vídeo: o que aconteceu e o que vem por aí](https://www.youtube.com/watch?v=4tpytd-LM48)
-- [DEV PJ: Pare de Ser REFÉM Financeiro de EMPRESA!](https://www.youtube.com/watch?v=3DoN3OE281Q)
 <!-- YOUTUBE:END -->
 
 ### Latest articles on DEV
