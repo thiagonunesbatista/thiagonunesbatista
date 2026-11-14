@@ -44,6 +44,7 @@ You can browse them at [codigoaoponto.com/en/tools](https://codigoaoponto.com/en
 ### Latest YouTube videos
 
 <!-- YOUTUBE:START -->
+- [O que são tokens e por que o Claude tem limite &lpar;Aula 2&rpar;](https://www.youtube.com/watch?v=XFOLyBLgMQY)
 - [Qual a diferença entre Claude e Claude Code &lpar;Aula 1&rpar;](https://www.youtube.com/watch?v=MOss-aQ522Q)
 - [Curso de Claude grátis em português &lpar;apresentação&rpar;](https://www.youtube.com/watch?v=85EsBzpj930)
 - [O React quase teve um nome horrível](https://www.youtube.com/watch?v=6WFCd_dJ0U8)
@@ -53,7 +54,6 @@ You can browse them at [codigoaoponto.com/en/tools](https://codigoaoponto.com/en
 - [O que é um Composable no Vue e no Nuxt?  Aula #17](https://www.youtube.com/watch?v=wrESf5IOAfU)
 - [Por que todo dev sonha em largar tudo e ir para a fazenda?](https://www.youtube.com/watch?v=mC3a6cgtNBw)
 - [Hype de IA: como separar o que importa do que é modinha](https://www.youtube.com/watch?v=X4AGMylFsnM)
-- [Dev vai ter que pagar assinatura de IA para sempre?](https://www.youtube.com/watch?v=DDor6VW43bw)
 <!-- YOUTUBE:END -->
 
 ### Latest articles on DEV
