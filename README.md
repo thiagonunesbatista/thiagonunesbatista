@@ -44,6 +44,7 @@ You can browse them at [codigoaoponto.com/en/tools](https://codigoaoponto.com/en
 ### Latest YouTube videos
 
 <!-- YOUTUBE:START -->
+- [Como um vibe coder faria o GTA 6?](https://www.youtube.com/watch?v=CTKdjis-eWY)
 - [Como usar o Claude AI e o Claude Code em português](https://www.youtube.com/shorts/W7SId84Mc3I)
 - [O que são tokens e por que o Claude tem limite &lpar;Aula 2&rpar;](https://www.youtube.com/watch?v=XFOLyBLgMQY)
 - [Qual a diferença entre Claude e Claude Code &lpar;Aula 1&rpar;](https://www.youtube.com/watch?v=MOss-aQ522Q)
@@ -53,7 +54,6 @@ You can browse them at [codigoaoponto.com/en/tools](https://codigoaoponto.com/en
 - [Linux não era pra se chamar Linux](https://www.youtube.com/watch?v=waR8zA97RDQ)
 - [JavaScript não tem nada a ver com Java &lpar;o nome foi marketing&rpar;](https://www.youtube.com/watch?v=U1balPnfm_8)
 - [O que é um Composable no Vue e no Nuxt?  Aula #17](https://www.youtube.com/watch?v=wrESf5IOAfU)
-- [Por que todo dev sonha em largar tudo e ir para a fazenda?](https://www.youtube.com/watch?v=mC3a6cgtNBw)
 <!-- YOUTUBE:END -->
 
 ### Latest articles on DEV
