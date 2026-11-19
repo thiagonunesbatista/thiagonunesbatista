@@ -44,6 +44,7 @@ You can browse them at [codigoaoponto.com/en/tools](https://codigoaoponto.com/en
 ### Latest YouTube videos
 
 <!-- YOUTUBE:START -->
+- [Janela de contexto e por que o Claude esquece &lpar;Aula 3&rpar;](https://www.youtube.com/watch?v=Gb7WW4ZVd1M)
 - [Fiz o meu GTA VI com IA](https://www.youtube.com/shorts/8bisdjeMIJ8)
 - [Como um vibe coder faria o GTA 6?](https://www.youtube.com/watch?v=CTKdjis-eWY)
 - [Como usar o Claude AI e o Claude Code em português](https://www.youtube.com/shorts/W7SId84Mc3I)
@@ -53,7 +54,6 @@ You can browse them at [codigoaoponto.com/en/tools](https://codigoaoponto.com/en
 - [O React quase teve um nome horrível](https://www.youtube.com/watch?v=6WFCd_dJ0U8)
 - [O nome do Vue saiu do Google Tradutor](https://www.youtube.com/watch?v=TeiQb3ikiEg)
 - [Linux não era pra se chamar Linux](https://www.youtube.com/watch?v=waR8zA97RDQ)
-- [JavaScript não tem nada a ver com Java &lpar;o nome foi marketing&rpar;](https://www.youtube.com/watch?v=U1balPnfm_8)
 <!-- YOUTUBE:END -->
 
 ### Latest articles on DEV
