@@ -44,6 +44,7 @@ You can browse them at [codigoaoponto.com/en/tools](https://codigoaoponto.com/en
 ### Latest YouTube videos
 
 <!-- YOUTUBE:START -->
+- [Nuxt 4.7: novidades, WebMCP, Nitro 3 e melhorias de desempenho](https://www.youtube.com/watch?v=9tgAD8qh-cs)
 - [Janela de contexto e por que o Claude esquece &lpar;Aula 3&rpar;](https://www.youtube.com/watch?v=Gb7WW4ZVd1M)
 - [Fiz o meu GTA VI com IA](https://www.youtube.com/shorts/8bisdjeMIJ8)
 - [Como um vibe coder faria o GTA 6?](https://www.youtube.com/watch?v=CTKdjis-eWY)
@@ -53,7 +54,6 @@ You can browse them at [codigoaoponto.com/en/tools](https://codigoaoponto.com/en
 - [Curso de Claude grátis em português &lpar;apresentação&rpar;](https://www.youtube.com/watch?v=85EsBzpj930)
 - [O React quase teve um nome horrível](https://www.youtube.com/watch?v=6WFCd_dJ0U8)
 - [O nome do Vue saiu do Google Tradutor](https://www.youtube.com/watch?v=TeiQb3ikiEg)
-- [Linux não era pra se chamar Linux](https://www.youtube.com/watch?v=waR8zA97RDQ)
 <!-- YOUTUBE:END -->
 
 ### Latest articles on DEV
