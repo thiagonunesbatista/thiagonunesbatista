@@ -59,6 +59,7 @@ You can browse them at [codigoaoponto.com/en/tools](https://codigoaoponto.com/en
 ### Latest articles on DEV
 
 <!-- BLOG-POST-LIST:START -->
+- [Nuxt 4.7: I tested what&#39;s new and why it&#39;s worth upgrading](https://dev.to/codigoaoponto/nuxt-47-i-tested-whats-new-and-why-its-worth-upgrading-33nd)
 - [Vue Vapor Mode: what it is and what changes in Vue 3.6](https://dev.to/codigoaoponto/vue-vapor-mode-what-it-is-and-what-changes-in-vue-36-2cmc)
 - [I Built a Free Web Tools Hub for Developers](https://dev.to/codigoaoponto/i-built-a-free-web-tools-hub-for-developers-37p5)
 - [Como lidar com inveja de outros programadores na carreira](https://dev.to/codigoaoponto/como-lidar-com-inveja-de-outros-programadores-na-carreira-28mp)
@@ -68,5 +69,4 @@ You can browse them at [codigoaoponto.com/en/tools](https://codigoaoponto.com/en
 - [SEO para Mídias Sociais: Como Fazer os Links do Seu Site Bombarem nas Mídias Sociais!](https://dev.to/codigoaoponto/seo-para-midias-sociais-como-fazer-os-links-do-seu-site-bombarem-nas-midias-sociais-20c5)
 - [Como adicionar o Google Tag Manager no seu website com Nuxt 3](https://dev.to/codigoaoponto/como-adicionar-o-google-tag-manager-no-seu-website-com-nuxt-3-pp7)
 - [Os principais erros de programadores em entrevistas de emprego](https://dev.to/codigoaoponto/os-principais-erros-de-programadores-em-entrevistas-de-emprego-1ae9)
-- [Como recuperar arquivos perdidos no Git utilizando o VSCode](https://dev.to/codigoaoponto/como-recuperar-arquivos-perdidos-no-git-utilizando-o-vscode-2ec3)
 <!-- BLOG-POST-LIST:END -->
