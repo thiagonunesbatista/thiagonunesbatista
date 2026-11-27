@@ -44,6 +44,7 @@ You can browse them at [codigoaoponto.com/en/tools](https://codigoaoponto.com/en
 ### Latest YouTube videos
 
 <!-- YOUTUBE:START -->
+- [Como o Vue.js sabe o que atualizar na tela? Reatividade e Virtual DOM](https://www.youtube.com/watch?v=UsPaJ1VInoU)
 - [Nuxt 4.7: novidades, WebMCP, Nitro 3 e melhorias de desempenho](https://www.youtube.com/watch?v=9tgAD8qh-cs)
 - [Janela de contexto e por que o Claude esquece &lpar;Aula 3&rpar;](https://www.youtube.com/watch?v=Gb7WW4ZVd1M)
 - [Fiz o meu GTA VI com IA](https://www.youtube.com/shorts/8bisdjeMIJ8)
@@ -53,7 +54,6 @@ You can browse them at [codigoaoponto.com/en/tools](https://codigoaoponto.com/en
 - [Qual a diferença entre Claude e Claude Code &lpar;Aula 1&rpar;](https://www.youtube.com/watch?v=MOss-aQ522Q)
 - [Curso de Claude grátis em português &lpar;apresentação&rpar;](https://www.youtube.com/watch?v=85EsBzpj930)
 - [O React quase teve um nome horrível](https://www.youtube.com/watch?v=6WFCd_dJ0U8)
-- [O nome do Vue saiu do Google Tradutor](https://www.youtube.com/watch?v=TeiQb3ikiEg)
 <!-- YOUTUBE:END -->
 
 ### Latest articles on DEV
